@@ -1,0 +1,13 @@
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.deps.json
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.json
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.runtimeconfig.dev.json
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.AssemblyReference.cache
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfoInputs.cache
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.AssemblyInfo.cs
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.csproj.CoreCompileInputs.cache
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.EF\obj\Debug\netcoreapp3.1\BE.DAL.EF.genruntimeconfig.cache

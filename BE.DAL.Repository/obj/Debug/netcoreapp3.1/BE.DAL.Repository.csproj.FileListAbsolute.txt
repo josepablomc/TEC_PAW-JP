@@ -1,0 +1,5 @@
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.csproj.AssemblyReference.cache
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.AssemblyInfoInputs.cache
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.AssemblyInfo.cs
+C:\Repos\BackEndCapas\BackEnd\BE.DAL.Repository\obj\Debug\netcoreapp3.1\BE.DAL.Repository.csproj.CoreCompileInputs.cache
