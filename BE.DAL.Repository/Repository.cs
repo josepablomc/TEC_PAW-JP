@@ -14,6 +14,7 @@ namespace BE.DAL.Repository
         {
             dbContext = _dbContext;
         }
+
         public void AddRange(IEnumerable<T> t)
         {
             dbContext.Set<T>().AddRange(t);
@@ -37,7 +38,6 @@ namespace BE.DAL.Repository
             }
             catch (Exception ee)
             {
-
                 throw;
             }
         }
@@ -89,11 +89,19 @@ namespace BE.DAL.Repository
 
         public void Update(T t)
         {
-            if (dbContext.Entry<T>(t).State == Microsoft.EntityFrameworkCore.EntityState.Detached)
+            try
             {
-                dbContext.Set<T>().Attach(t);
+                if (dbContext.Entry<T>(t).State == Microsoft.EntityFrameworkCore.EntityState.Detached)
+                {
+                    dbContext.Set<T>().Attach(t);
+                }
+                dbContext.Entry<T>(t).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
             }
-            dbContext.Entry<T>(t).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public void UpdateRange(IEnumerable<T> t)

@@ -29,9 +29,11 @@ namespace API
             services.AddDbContext<NorthwindContext>(options =>
             options.UseSqlServer(
             Configuration.GetConnectionString("GoodConnection")));
-            services.AddControllers();
-            // Register the Swagger generator, defining 1 or more Swagger documents
+
+            //Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen();
+
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,11 +43,12 @@ namespace API
             {
                 app.UseDeveloperExceptionPage();
             }
+
             // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwagger();
-
             // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.)
             app.UseSwaggerUI();
+
             app.UseRouting();
 
             app.UseAuthorization();

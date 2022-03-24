@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\TrabajoEnClase - Programacion Avanzada Web\\TEC_PAW-JP_Semana4\\API\\API.csproj": {}
+    "C:\\Repos\\BackEnd2\\BackEnd\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\TrabajoEnClase - Programacion Avanzada Web\\TEC_PAW-JP_Semana4\\API\\API.csproj": {
+    "C:\\Repos\\BackEnd2\\BackEnd\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\TrabajoEnClase - Programacion Avanzada Web\\TEC_PAW-JP_Semana4\\API\\API.csproj",
+        "projectUniqueName": "C:\\Repos\\BackEnd2\\BackEnd\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Repos\\TrabajoEnClase - Programacion Avanzada Web\\TEC_PAW-JP_Semana4\\API\\API.csproj",
+        "projectPath": "C:\\Repos\\BackEnd2\\BackEnd\\API\\API.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\TrabajoEnClase - Programacion Avanzada Web\\TEC_PAW-JP_Semana4\\API\\obj\\",
+        "outputPath": "C:\\Repos\\BackEnd2\\BackEnd\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,7 +66,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.2, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
